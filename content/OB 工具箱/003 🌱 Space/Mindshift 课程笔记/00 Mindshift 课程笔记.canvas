@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"type":"file","file":"OB 工具箱/003 🌱 Space/Mindshift 课程笔记/Focused Vs Diffuse.md","id":"43a681b9f81806b0","x":460,"y":-644,"width":760,"height":1068},
+		{"type":"file","file":"OB 工具箱/003 🌱 Space/Mindshift 课程笔记/Working Memory & Long Term Memory.md","id":"3151cbd0b7bc16b7","x":1340,"y":-644,"width":740,"height":1264},
+		{"type":"file","file":"OB 工具箱/003 🌱 Space/Mindshift 课程笔记/The Pomodoro Technique.md","id":"db1cdb3e702726b2","x":460,"y":520,"width":760,"height":1180},
+		{"type":"file","file":"OB 工具箱/003 🌱 Space/Mindshift 课程笔记/Procrastination.md","id":"61b16e1bd7c1deb6","x":2160,"y":-644,"width":780,"height":604},
+		{"type":"file","file":"OB 工具箱/003 🌱 Space/Mindshift 课程笔记/The Value of Being a Slow Learner.md","id":"af6d12febfc70591","x":-320,"y":-72,"width":640,"height":992},
+		{"type":"file","file":"OB 工具箱/003 🌱 Space/Mindshift 课程笔记/The Salk Institute.md","id":"a1879d29be2a898c","x":460,"y":1780,"width":760,"height":976},
+		{"type":"file","file":"OB 工具箱/003 🌱 Space/Mindshift 课程笔记/How to Make a Chunk.md","id":"20ac754f9b9a0b1a","x":1340,"y":720,"width":740,"height":1880},
+		{"type":"file","file":"OB 工具箱/003 🌱 Space/Mindshift 课程笔记/Reframe – Put a Label on Feelings.md","id":"f20076be506789db","x":2160,"y":20,"width":780,"height":2980}
+	],
+	"edges":[]
+}

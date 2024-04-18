@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"type":"text","text":"# Focus on Your System Instead of Goals\n- 建立系统，而非目标\n- 每天进步1%，长期积累产生巨大的变化\n- 过程不是线性变化，需要耐心\n\n![[Media.pdf 3.png]]","id":"70d6c2ce8d0651db","x":-720,"y":-680,"width":580,"height":720},
+		{"type":"text","text":"# Becoming Best Version of Yourself\n- 三个层次的改变：outcome、process、identity\n- 最有效的方式是认知先改变，我希望成为一个怎样的人\n- 你所做的每一个行为塑造了你是一个怎样的人，比如说今天运动了1次就离“我是一个健康的人”更近了一步，人的特质是流动的，这也是为什么西方那么崇尚逆袭，改变自己。\n\n![[Media.pdf 4.png]]","id":"0677f1d75d2c156d","x":-720,"y":80,"width":580,"height":760},
+		{"type":"file","file":"OB 工具箱/003 🌱 Space/Atomic Habits 读书笔记/How to Create a Habit.md","id":"cfccca2053aeff4b","x":-100,"y":-680,"width":1020,"height":3860},
+		{"type":"text","text":"# Little Lessons\n\n>one of the most consistent findings is that the way to maintain motivation and achieve peak levels of desire is to work on tasks of “just manageable difficulty”\n\n![[Pasted image 20230705144107.png]]\n\n>Professionals stick to the schedule; amateurs let life get in the way\n\n>Peace occurs when you don’t turn your observations into problems\n\n>With a big enough why you can overcome any how\n\n>Emotions drive behavior","id":"49ddb094186b802c","x":-720,"y":920,"width":580,"height":1000}
+	],
+	"edges":[]
+}
